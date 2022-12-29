@@ -2,8 +2,6 @@
 
 An Instagram scraper Bot built using Node.js and Express.js
 
-API URL - 
-
 # Instagram Scraper
 
 ### Endpoints
@@ -111,7 +109,7 @@ API URL -
 * ```/scraper/:username/:postcount```    
   
   You can find more posts and their details by using this endpoint.
-  
+
   This endpoint return details of specifc amount of posts.The response is similar to the one above. Useful for accounts with large amount of posts.
   
   This endpoints automatically handles pagination and returns the required number of posts.
