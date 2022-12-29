@@ -2,6 +2,20 @@
 
 An Instagram scraper Bot built using Node.js and Express.js
 
+To Setup the project, follow the steps below:
+
+-> Clone the repository
+
+-> Run npm install
+
+-> In command line, ```touch .env``` and add the following variables:
+
+```INSTAGRAM_USERNAME=``` (Your Instagram username)
+
+```INSTAGRAM_PASSWORD=``` (Your Instagram password)
+
+-> Run ```npm start``` to start the server
+
 # Instagram Scraper
 
 ### Endpoints
